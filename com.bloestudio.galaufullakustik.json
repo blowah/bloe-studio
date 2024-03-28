@@ -40,7 +40,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "Waktu Yang Salah",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU10.mp3",
+      "link_mp3": "mp3/LAGU1.mp3",
       "lyrics": ""
 	  },
     {
@@ -48,7 +48,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "KEKASIH BAYANGAN",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU9.mp3",
+      "link_mp3": "mp3/LAGU2.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -56,7 +56,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "MELEPASMU",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU8.mp3",
+      "link_mp3": "mp3/LAGU3.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -64,7 +64,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "BELUM SIAP KEHILANGAN",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU7.mp3",
+      "link_mp3": "mp3/LAGU4.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -72,7 +72,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "Tapi Bukan Aku Kerispatih",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU6.mp3",
+      "link_mp3": "mp3/LAGU5.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -80,7 +80,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "Risalah Hati",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU5.mp3",
+      "link_mp3": "mp3/LAGU6.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -88,7 +88,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "Sejauh Mungkin",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU4.mp3",
+      "link_mp3": "mp3/LAGU7.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -96,7 +96,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "CINTA TAK HARUS MEMILIKI",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU3.mp3",
+      "link_mp3": "mp3/LAGU8.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -104,7 +104,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "CINTA TERLARANG",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU2.mp3",
+      "link_mp3": "mp3/LAGU9.mp3",
       "lyrics": ""
 	  },
 	  {
@@ -112,7 +112,7 @@
       "name_category": "LAGU GALAU AKUSTIK",
       "title": "Demi Cinta",
       "image": "file:///android_asset/image/ANYAR.jpg",
-      "link_mp3": "mp3/LAGU1.mp3",
+      "link_mp3": "mp3/LAGU10.mp3",
       "lyrics": ""
     }
   ]
