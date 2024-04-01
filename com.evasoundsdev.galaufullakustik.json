@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "image": "file:///android_asset/image/ANYAR.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "Waktu Yang Salah",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "KEKASIH BAYANGAN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "MELEPASMU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "BELUM SIAP KEHILANGAN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "Tapi Bukan Aku Kerispatih",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "Risalah Hati",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "Sejauh Mungkin",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "CINTA TAK HARUS MEMILIKI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "CINTA TERLARANG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "LAGU GALAU AKUSTIK",
+      "title": "Demi Cinta",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU10.mp3",
+      "lyrics": ""
+    }
+  ]
+}
