@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "image": "file:///android_asset/image/ANYAR.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Ya Asyiqol Musthofa",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Khotmil Quran",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU2.mp3",
+      "lyrics": "<p><em>Allahummarhamna Bil Quran</em><br /><em>Waj&rsquo;alhulanna Imaaman Wa Nuuran Wa Huda Wa Rohmah</em><br /><em>Allahumma Dzikkirna Minhu maa Nasiiha</em></p><p><em>Wa&rsquo;allimna Minhu maa Jahiilna</em><br /><em>Warzuqna Tilaawatahu Aana Al Laili Wa Athro Fannahaar</em><br /><em>Waj&rsquo;alhulanna Hujjatan</em><br /><em>Yaa Rabbal &lsquo;Alamin</em></p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Antal Amin",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "SHOLAWAT BURDAH",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Qomarun",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU5.mp3",
+      "lyrics": "<p>Qamarun Qamarun Qamarun <a>Sindan Nabi </a>Qamarun</p><p>Wajamil Wajamil Wajamil Sidnan Nabi Wajamil</p><div><p>Wkafful Mustafa Kalwardi Nadi</p><p>Wa Itruhahyabqa iza Massat ayadi</p><p>&nbsp;</p><p>Wkafful Mustafa Kalwardi Nadi Allah Allah</p><p>Wa Itruhahyabqa iza Massat ayadiAllah Allah</p><p>&nbsp;</p><p>Waamma nawaluha Kullal Ibadi</p><p>Wamma nawaluha Kullal Ibadi</p><p>Wamma nawaluha Kullal Ibadi</p><p>Wamma nawaluha Kullal Ibadi</p><p>Habibullahiya khoirol Baro aa</p><p>&nbsp;</p><p>Qamarun Qamarun Qamarun Sindan Nabi Qamarun</p><p>Wajamil Wajamil Wajamil Sidnan Nabi Wajamil</p><p>&nbsp;</p><p>Walazillullahu Bal Kananura Allah Allah</p><p>Tanalash Syamsaminhu wal buduraAllah Allah</p><p>Walazillullahu Bal Kananura Allah Allah</p><p>Tanalash Syamsaminhu wal budura Allah Allah</p><p>&nbsp;</p><p>Walam yakunil huda laula zuhura</p><p>Walam yakunil huda laula zuhura</p><p>wakullulkauni anaruhinuriqoha</p><p>&nbsp;</p><p>Qamarun Qamarun Qamarun Sindan Nabi Qamarun</p><p>Wajamil Wajamil Wajamil Sidnan Nabi Wajamil</p></div>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Sholawat Asyghil",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU6.mp3",
+      "lyrics": "<p>Allahumma sholli 'ala Sayyidina Muhammad</p><p>wa asyghilizh zholimin bidz zholimin</p><p>wa akhrijna min bainihim salimin</p><p>wa &lsquo;ala alihi wa shohbihi ajma&rsquo;in</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "SHOLAWAT THIBBIL QULUB",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU7.mp3",
+      "lyrics": "<p><em>All&acirc;humma shalli &lsquo;al&acirc; sayyidin&acirc; Muhammadin thibbil qul&ucirc;bi wa daw&acirc;-ih&acirc; wa &lsquo;&acirc;fiyatil abd&acirc;ni wa syif&acirc;-ih&acirc; wa n&ucirc;ril absh&acirc;ri wa dliy&acirc;-ihaa wa q&ucirc;til arw&acirc;hi wa ghid&acirc;-ih&acirc; wa &rsquo;al&acirc; &acirc;lih&icirc; wa shahbih&icirc; wa sallim.</em></p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Sidna Nabi",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Ya Thoybah",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU9.mp3",
+      "lyrics": "<p>Yaa Thoybah, Yaa Thoybah, Yaa Dawal &lsquo;Ayaanaa</p><p>Isytaqnaalik Wal Hawa Nadaanaa, Wal Hawa Nadaanaa</p><p>Yaa 'Aliy-Yabna Abii Thoolib</p><p>Minkumu Mashdarul Mawaahib</p><p>Yaa Turoo Hal Uroo Lii Haajib</p><p>Indukum Afdholul Ghilmaana, Afdholul Ghilmaana</p><p>Yaa Thoybah, Yaa Thoybah, Yaa Dawal &lsquo;Ayaanaa</p><p>Isytaqnaalik Wal Hawa Nadaanaa, Wal Hawa Nadaanaa</p><p>Yaa Dawal &lsquo;Ayaanaa, Isytaqnaalik Wal Hawa Nadaanaa</p><p>Asyaadil Hasan Wal Husaini</p><p>'Ilan-Nabii Qurrot 'Aini</p><p>Yaa Syabaabal Jannataini</p><p>Jaddukum Shoohibul Qur'ana, Shoohibul Qur'ana</p><p>Yaa Thoybah, Yaa Thoybah, Yaa Dawal &lsquo;Ayaanaa</p><p>Isytaqnaalik Wal Hawa Nadaanaa, Wal Hawa Nadaanaa</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "SHALAWAT JAMAN DULU",
+      "title": "Al I'tiraf",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU10.mp3",
+      "lyrics": "<p>fa innaka ghaafirudzdzambil &lsquo;azhiimi</p><p>Dzunuubii mitslu a&rsquo;daadir rimaali</p><p>fa hablii taubatan yaa dzaaljalaalzi</p><p>Wa &lsquo;umrii naaqishun fii kulli yaumi</p><p>wa dzambii zaa-idun kaifah timaali</p><p>Ilaahii &lsquo;abdukal &lsquo;aashii ataaka</p><p>muqirran bidzdzunuubi wa qad da&rsquo;aaka</p><p>wa in tathrud faman narjuu siwaaka</p><p>&nbsp;</p>"
+    }
+  ]
+}
